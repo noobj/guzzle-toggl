@@ -2,7 +2,7 @@
 
 namespace AJT\Toggl;
 
-use Guzzle\Service\Loader\JsonLoader;
+use AJT\Toggl\Loader\JsonLoader;
 use GuzzleHttp\Client;
 use GuzzleHttp\Command\Guzzle\Description;
 use GuzzleHttp\Command\Guzzle\GuzzleClient;
