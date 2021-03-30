@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace AJT\Toggl\Loader;
+namespace Noobj\Toggl\Loader;
 
 class JsonLoader extends FileLoader
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace AJT\Toggl;
+namespace Noobj\Toggl;
 
-use AJT\Toggl\Loader\JsonLoader;
+use Noobj\Toggl\Loader\JsonLoader;
 use GuzzleHttp\Client;
 use GuzzleHttp\Command\Guzzle\Description;
 use GuzzleHttp\Command\Guzzle\GuzzleClient;

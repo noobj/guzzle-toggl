@@ -1,6 +1,6 @@
 <?php
 
-namespace AJT\Toggl;
+namespace Noobj\Toggl;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Command\Guzzle\GuzzleClient;

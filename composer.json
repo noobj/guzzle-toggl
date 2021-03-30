@@ -1,9 +1,9 @@
 {
-    "name": "ajt/guzzle-toggl",
+    "name": "noobj/guzzle-toggl",
     "type": "library",
     "description": "Toggl API client written on top of Guzzle PHP.",
     "keywords": ["toggl", "ajt", "api", "guzzle"],
-    "homepage": "http://github.com/arendjantetteroo/guzzle-toggl",
+    "homepage": "http://github.com/noobj/guzzle-toggl",
     "license": "MIT",
     "authors": [
         {
@@ -23,6 +23,6 @@
         }
     },
     "autoload": {
-        "psr-0": {"AJT": "src/"}
+        "psr-0": {"Noobj": "src/"}
     }
 }

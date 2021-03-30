@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace AJT\Toggl\Loader;
+namespace Noobj\Toggl\Loader;
 
 use Symfony\Component\Config\Loader\FileLoader as BaseFileLoader;
 
